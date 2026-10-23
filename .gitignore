@@ -1,0 +1,9 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Local environment files
+.env
